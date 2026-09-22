@@ -1,0 +1,7 @@
+imagenes/auto_obstaculo_1.png
+imagenes/auto_obstaculo_2.png
+imagenes/auto_obstaculo_3.png
+imagenes/auto_obstaculo_4.png
+imagenes/auto_obstaculo_5.png
+imagenes/auto_obstaculo_6.png
+imagenes/auto_obstaculo_7.png
